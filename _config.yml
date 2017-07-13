@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Chung Poon
+email: hello@cmpoon.com
+url: https://portfolio.cmpoon.com
+description: "Chung Poon : Engineer - Developer - Designer. Find out more about his work in his porfolio here."
+keywords: "Chung Poon, porfolio, designer, web, developer, full stack"
+skills: "Engineer &middot; Developer &middot; Designer"
+meta_author: Poon Chung
 
 # Google webmaster tools
 google_verify:
@@ -21,7 +21,7 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+disqus_shortname: cmpoon
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -32,31 +32,30 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: Chung Poon
+  location: London, UK
+  social: cmpoon
+  credits: Imperial Colege London
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: linkedin
+    url: http://linkedin.com/cmpoon
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/cmpoon
+  - title: google-plus
+    url: http://plus.google.com/cmpoon212
+
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Department of Electrical &amp; Electronic Engineering
+  - line: Imperial College
+  - line: London
+  - line: SW7 2AZ
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: '<a href="http://cmpoon.com/terms">Terms of Use</a>&nbsp;|&nbsp;<a href="http://cmpoon.com/privacy">Privacy</a>'
 
 # Build settings
 markdown: kramdown
