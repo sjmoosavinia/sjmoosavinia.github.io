@@ -1,0 +1,63 @@
+// Load the embedding script controller/embed.js and css files
+// This is needed for backward compatibility, while old user
+// still use this file to load embedded infographic
+
+( function() {
+  // run the console shim at the very beginning
+  // http://stackoverflow.com/questions/8095348/website-with-js-doesnt-work-in-ie9-until-the-developer-tools-is-activated
+  if ( !window.console ) {( function() {
+    var Console = function() {
+      var check = setInterval( function() {
+        var f;
+        if ( window.console && console.log && !console.__buffer ) {
+          clearInterval( check );
+          f = ( Function.prototype.bind ) ? Function.prototype.bind.call( console.log, console ) : console.log;
+          for ( var i = 0; i < __console.__buffer.length; i++ ) f.apply( console, __console.__buffer[i] );
+        }
+      }, 1000 );
+
+      function log() {
+        this.__buffer.push( arguments );
+      }
+
+      this.log = log;
+      this.error = log;
+      this.warn = log;
+      this.info = log;
+      this.__buffer = [];
+    };
+
+    var __console = window.console = new Console();
+  })();}
+
+  var REQUEST_URL = document.getElementById( 'pikto-embed-js' ).getAttribute( 'src' );
+  var SERVER_URL = REQUEST_URL.split( '/assets' )[0];
+
+  //--- functions to create js and css elements ---//
+  function includeJS( filePath, type, absolute, callback ) {
+    // Make sure we didn't duplicate any of the previously included files
+    if ( document.getElementById( filePath )) {
+      return;
+    }
+    var docHead = document.getElementsByTagName( 'head' )[0];
+    var src = absolute ? filePath : SERVER_URL + filePath;
+    var newTag;
+    if ( type === 'js' ) {
+      newTag = document.createElement( 'script' );
+      newTag.type = 'text/javascript';
+      newTag.src = src;
+      newTag.async = true;
+    } else {
+      // we shouldn't be getting anything else than js
+      return;
+    }
+    newTag.id = filePath; // add it so that we can check the next time easily
+    if ( callback ) newTag.onload = callback;
+    docHead.appendChild( newTag );
+  }
+
+  // load js
+  includeJS( '/assets/assets/vendor-bundle-59fffd5f1b64b1ee9359c83c84ac0ea3e8e08ec28cec639478e1d7d689c520cc.js', 'js', false, function(){
+    includeJS( '/assets/assets/embed-bundle-2a6b22d04e42097f8524b7aeb42d8b461b1cb5a2acc362ec3ff9ca6357164704.js', 'js' );
+  });
+})();
