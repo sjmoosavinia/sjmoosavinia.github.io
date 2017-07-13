@@ -3,10 +3,10 @@ layout: default
 modal-id: 2
 date: 2017-03-29
 gallery:
-  - boost/boost.png
-  - boost/schematic.png
-  - boost/pcb.png
-img: boost/boost.png
+  - boost/boost.jpg
+  - boost/schematic.jpg
+  - boost/pcb.jpg
+img: boost/boost.jpg
 alt: Boost Converter
 project-date: March 2017
 client: Imperial College
