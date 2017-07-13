@@ -15,7 +15,7 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
 							{% if post.gallery %}
-							<div id="modalCarousel-{{ post.modal-id }}" class="carousel slide" data-ride="carousel">
+							<div id="modalCarousel-{{ post.modal-id }}" class="carousel slide" data-ride="carousel" style="margin-bottom: 20px;">
 								  <!-- Indicators -->
 								<ol class="carousel-indicators">
 								{% for gimg in post.gallery %}
@@ -48,15 +48,15 @@
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
                                 <li>Who:
-                                    <strong><a href="#">{{ post.client }}</a>
+                                    <strong><!-- a href="#" -->{{ post.client }}<!-- /a -->
                                     </strong>
                                 </li>
                                 <li>When:
-                                    <strong><a href="#">{{ post.project-date }}</a>
+                                    <strong><!-- a href="#" -->{{ post.project-date }}<!-- /a -->
                                     </strong>
                                 </li>
                                 <li>What:
-                                    <strong><a href="#">{{ post.category }}</a>
+                                    <strong><!-- a href="#" -->{{ post.category }}<!-- /a -->
                                     </strong>
                                 </li>
                             </ul>
