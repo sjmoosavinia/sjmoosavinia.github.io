@@ -1,12 +1,16 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+date: 2017-03-29
+gallery:
+  - boost/boost.png
+  - boost/schematic.png
+  - boost/pcb.png
+img: boost/boost.png
+alt: Boost Converter
+project-date: March 2017
+client: Imperial College
+category: Engineering
+description: In a bid to increase the efficency of today's power converters, engineer has been forgoing traditional transformer circuits in favour of modern power electronics. The goal of the project is to create an efficient power converter which steps up voltages from 20V to 48V and delivering around 40 watts of power continuously and reliably. There were also stringent total harmonics distortion requirements to avoid poor power factor to the electrical network. Not only did the team had to design and build the boost converter, but we also had to put in place a complex dynamic control circuit through analogue implementations to meet these requirements.
 
 ---
