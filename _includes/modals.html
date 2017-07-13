@@ -15,7 +15,7 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
 							{% if post.gallery %}
-							<div id="modalCarousel-{{ post.modal-id }}" class="carousel slide" data-ride="carousel" style="margin-bottom: 20px;">
+							<div id="modalCarousel-{{ post.modal-id }}" class="carousel slide" data-ride="carousel">
 								  <!-- Indicators -->
 								<ol class="carousel-indicators">
 								{% for gimg in post.gallery %}
@@ -45,7 +45,7 @@
 							{% else %}
 								<img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
 							{% endif %}
-                            <p>{{ post.description }}</p>
+                            <p style="margin-top: 20px;">{{ post.description }}</p>
                             <ul class="list-inline item-details">
                                 <li>Who:
                                     <strong><!-- a href="#" -->{{ post.client }}<!-- /a -->
