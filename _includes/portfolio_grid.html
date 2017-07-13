@@ -10,7 +10,8 @@
             </div>
             <div class="row">
                 {% for post in site.posts %}
-                    <div class="col-sm-4 portfolio-item">
+                    {% assign loopindex = forloop.index | modulo: 3 %}
+					<div class="col-sm-4 portfolio-item">
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
                                 <div class="caption-content">
@@ -21,6 +22,12 @@
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
                         </a>
                     </div>
+					{% if loopindex == 2 %}
+						{% unless forloop.last %}
+						</div><div class="row">
+						{% endunless %}
+					{% endif %}
+
                 {% endfor %}
             </div>
         </div>
