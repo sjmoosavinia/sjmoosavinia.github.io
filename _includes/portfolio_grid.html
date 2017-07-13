@@ -22,8 +22,8 @@
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
                         </a>
                     </div>
-					{% if loopindex == 3 %}
-						{% unless forloop.last %}
+					{% if loopindex == 0 %}
+						{% unless forloop.first or forloop.last %}
 						</div><div class="row">
 						{% endunless %}
 					{% endif %}
