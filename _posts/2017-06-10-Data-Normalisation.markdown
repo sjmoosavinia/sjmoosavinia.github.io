@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2017-06-10
-img: datatool/norm24.png
+img: datatool/front.png
 gallery:
   - datatool/norm24.png
   - datatool/norm24-anno.png

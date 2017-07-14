@@ -6,7 +6,7 @@ gallery:
   - boost/boost.jpg
   - boost/schematic.jpg
   - boost/pcb.jpg
-img: boost/boost.jpg
+img: boost/front.png
 alt: Boost Converter
 project-date: March 2017
 client: Imperial College
