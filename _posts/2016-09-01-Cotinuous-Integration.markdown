@@ -1,12 +1,17 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: safe.png
-alt: image-alt
-project-date: April 2014
-client: Cybersecurity Firm
-category: Development
-description: This was a formidable engineering challenge.
+date: 2016-09-01
+img: continuousintegration/front.png
+gallery:
+  - continuousintegration/front.png
+  - continuousintegration/dashboard.png
+  - continuousintegration/lego.png
+  - continuousintegration/timezoneflow.png
+alt: CI Showcase
+project-date: August 2016
+client: A Cybersecurity Firm
+category: Develop/Design
+description: Responding to change over following a plan is one of the four cornerstones of working in the Agile Development Methodology. My work as the DevOps engineer in a team of about 30 developers is to implement a Continous Integration pipeline. This means that code commited to the team code repository is automatically built, tested and deployed locally, with the changes ready to be showcased. The relevant test result is also automatically reported to the approporiate developers on the task. This also a dashboard to be developed to have full visibility of the team's progress (or 'velocity') on the task (or 'story'). My work has increased the productivity of the team by enabling quicker reaction to changes, as opposed to being surprised by an unexpected problem downstream, which may have a much bigger impact. The Agile training session pictured above invloving Legos also gave the team the full confidence of working in the Agile mindset.
 
 ---
