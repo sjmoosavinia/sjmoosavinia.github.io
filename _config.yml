@@ -33,9 +33,9 @@ color:
 # Footer settings
 footer:
   copyright: Chung Poon
-  location: London, UK
-  social: cmpoon
-  credits: Imperial Colege London
+  location: Imperial College London, UK
+  social: Connect with me
+  credits: CMPoon.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -49,13 +49,14 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Department of Electrical &amp; Electronic Engineering
+  - line: Dept. of Electrical &amp; Electronic Engineering
   - line: Imperial College
-  - line: London
+  - line: South Kensington, London
   - line: SW7 2AZ
+  - line: UK
 
 # Credits content
-credits: '<a href="http://cmpoon.com/terms">Terms of Use</a>&nbsp;|&nbsp;<a href="http://cmpoon.com/privacy">Privacy</a>'
+credits: '<a href="https://cmpoon.com/">Home</a>&nbsp;|&nbsp;<a href="https://cmpoon.com/terms">Terms</a>&nbsp;|&nbsp;<a href="https://cmpoon.com/privacy">Privacy</a>'
 
 # Build settings
 markdown: kramdown
