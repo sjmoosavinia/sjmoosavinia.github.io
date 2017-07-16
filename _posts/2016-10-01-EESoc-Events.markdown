@@ -3,9 +3,9 @@ layout: default
 modal-id: 7
 title: EESoc Events
 date: 2016-10-01
-img: eesoc/events/front.png
+img: eesoc/events/front.jpg
 gallery:
-  - eesoc/events/front.png
+  - eesoc/events/front.jpg
   - eesoc/events/3hack-present.jpg
   - eesoc/events/speech.jpg
   - eesoc/events/careersfair.jpg
