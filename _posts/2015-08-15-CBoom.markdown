@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 10
+title: Low-Voltage Boomer for Marine Surveying
+date: 2015-08-15
+img: cboom/front.jpg
+alt: CBoom
+project-date: March 2015
+client: Marine Surveying Firm
+category: Engineering &amp; Design
+description: Working in the Research and Development department, I was part of a team which aimed at designing, prototyping and testing the next generation of specialist digital instruments used in marine surveying, as well as maintaining the current fleet of equipment used out-field. The designs of these equipment have to be ruggedised to withstand the harsh marine environment.
+
+---
