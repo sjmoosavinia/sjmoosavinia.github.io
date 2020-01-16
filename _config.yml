@@ -1,11 +1,11 @@
 # Site settings
-title: Chung Poon
-email: hello@cmpoon.com
-url: https://portfolio.cmpoon.com
-description: "Chung Poon : Engineer - Developer - Designer. Find out more about his work in his porfolio here."
-keywords: "Chung Poon, porfolio, designer, web, developer, full stack"
-skills: "Engineer &middot; Developer &middot; Designer"
-meta_author: Poon Chung
+title: Sassan Joash Moosavinia
+email: sjmoosavinia@outlook.com
+url: https://sjmoosavinia.github.io/portfolio/
+description: "Sassan Joash Moosavinia : Begineer Programmer and Developer. Find out more about his work in his porfolio here."
+keywords: "Sassan Joash Moosavinia, porfolio, designer, web, developer"
+skills: "&middot; Begineer Programmer and Developer; &middot"
+meta_author: Joash
 
 # Google webmaster tools
 google_verify:
@@ -32,30 +32,27 @@ color:
 
 # Footer settings
 footer:
-  copyright: Chung Poon
-  location: Imperial College London, UK
+  copyright: Sassan Joash Moosavinia
+  location: Cornwall, UK
   social: Connect with me
   credits: CMPoon.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: http://linkedin.com/in/cmpoon
+    url: https://www.linkedin.com/in/sjmoosavinia/
   - title: github
-    url: http://github.com/cmpoon
-  - title: google-plus
-    url: http://plus.google.com/cmpoon212
+    url: https://github.com/sjmoosavinia
 
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: EEE Department
-  - line: Imperial College
-  - line: South Kensington, London
-  - line: SW7 2AZ
+  - line: 4 Stippy Stappy
+  - line: St. Agnes
+  - line: Cornwall
+  - line: TR5 0QR
 
 # Credits content
-credits: '<a href="https://cmpoon.com/">Home</a>&nbsp;|&nbsp;<a href="https://cmpoon.com/terms">Terms</a>&nbsp;|&nbsp;<a href="https://cmpoon.com/privacy">Privacy</a>'
 
 # Build settings
 markdown: kramdown
