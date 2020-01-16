@@ -60,3 +60,5 @@ credits: '<a href="https://cmpoon.com/">Home</a>&nbsp;|&nbsp;<a href="https://cm
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+theme: jekyll-theme-slate
