@@ -1,13 +1,13 @@
 ---
 layout: default
 modal-id: 1
-title: Free Code Camp Course
+title: Responsive Web Desgin Certification
 date: 2019-09-01
-img: portfolio/FCC code pen.png
+img: FCC-Webdesign/
 alt: Responsive Web Desgin Certification
 project-date: 2019
 category: Web Design
 client: Personal project
-description: Spent approximately 300 hours completing an online course in Responsive web design on FreeCodeCamp. Completed assessment following completion of the course designing 5 differenet wed pages that had to meet the responsive criteria set out by the course. All pages and accompanying code can be viewed on my CodePen dashboard.
+description: Spent approximately 300 hours completing an online course in responsive web design on FreeCodeCamp. Completed series of challenges following completion of the course designing 5 differenet wed pages that had to meet the responsive criteria set out by the course. All pages and accompanying code can be viewed on my CodePen dashboard.
 
 ---
