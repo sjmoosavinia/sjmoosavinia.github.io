@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 title: Responsive Web Desgin Certification
 date: 2019-09-01
-img: portfolio/FCC code pen.png
+img: FCC-Webdesign/
 alt: Responsive Web Desgin Certification
 project-date: 2019
 category: Web Design
