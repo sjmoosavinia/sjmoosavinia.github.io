@@ -6,7 +6,6 @@ date: 2019-09-01
 img: portfolio/FCC code pen.png
 alt: FCC Responsive web desgin
 project-date: 2019
-client: Myself
 category: Web Design
 description: Spent approximately 300 hours completing an online course in Responsive web design on FreeCodeCamp. Completed assessment following completion of the course designing 5 differenet wed pages that had to meet the responsive criteria set out by the course. All pages and accompanying code can be viewed on my CodePen dashboard.
 
