@@ -1,10 +1,10 @@
 # Site settings
 title: Sassan Joash Moosavinia
 email: sjmoosavinia@outlook.com
-url: https://sjmoosavinia.github.io/portfolio/
+url: https://sjmoosavinia.github.io/
 description: "Sassan Joash Moosavinia : Begineer Programmer and Developer. Find out more about his work in his porfolio here."
 keywords: "Sassan Joash Moosavinia, porfolio, designer, web, developer"
-skills: "&middot; Begineer Programmer and Developer; &middot"
+skills: "&middot; Beginner Programmer and Developer; &middot"
 meta_author: Joash
 
 # Google webmaster tools
@@ -43,7 +43,6 @@ social:
     url: https://www.linkedin.com/in/sjmoosavinia/
   - title: github
     url: https://github.com/sjmoosavinia
-
 
 # Postal address (add as many lines as necessary)
 address:
