@@ -3,7 +3,7 @@ layout: default
 modal-id: 14
 title: Free Code Camp Course
 date: 2019-09-01
-img: steamengine/front.jpg
+img: portfolio/FCC code pen.png
 alt: FCC Responsive web desgin
 project-date: 2019
 client: Myself
