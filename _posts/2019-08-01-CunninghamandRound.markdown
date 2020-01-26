@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-title: CunninghamandRound
+title: CunninghamandRound Website
 date: 2019-08-01
 img: Cunninghamandround/Cunninghamandround-home.jpg
 alt: CunninghamandRound.co.uk
