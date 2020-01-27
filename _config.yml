@@ -35,7 +35,7 @@ footer:
   copyright: Sassan Joash Moosavinia
   location: Cornwall, UK
   social: Connect with me
-  credits:
+  credits: Jekyll theme
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -52,7 +52,8 @@ address:
   - line: TR5 0QR
 
 # Credits content
-
+credits: Based on Freelancer bootstrap theme
+  
 # Build settings
 markdown: kramdown
 permalink: pretty
