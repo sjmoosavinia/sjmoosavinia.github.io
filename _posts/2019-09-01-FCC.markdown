@@ -8,6 +8,6 @@ alt: Responsive Web Desgin Certification
 project-date: 2019
 category: Web Design
 client: Personal project
-description: Spent approximately 300 hours completing an online course in responsive web design on FreeCodeCamp. Completed series of challenges following completion of the course designing 5 differenet wed pages that had to meet the responsive criteria set out by the course. All pages and accompanying code can be viewed on my CodePen dashboard.
+description: Following my interest in website development I spent approximately 300 hours completing an online course in responsive web design on FreeCodeCamp. This gave me a grounding in HTML and CSS through the completion of exercising in applied visual design and accessibility, responsive web design principals and the CSS flexboard and grid. To test my learning, I completed series of challenges following completion of the course designing 5 different wed pages and was awarded FreeCodeCamp Responsive Web Design Developer Certification. All pages and accompanying code can be viewed on my CodePen dashboard here <a>https://codepen.io/dashboard/</a>.
 
 ---
