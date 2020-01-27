@@ -4,7 +4,7 @@ email: sjmoosavinia@outlook.com
 url: https://sjmoosavinia.github.io/
 description: "Sassan Joash Moosavinia : Beginner Programmer and Developer. Find out more about his work in his porfolio here."
 keywords: "Sassan Joash Moosavinia, porfolio, designer, web, developer"
-skills: "&middot; Beginner Programmer and Developer; &middot"
+skills: "&middot; Beginner Programmer and Developer &middot"
 meta_author: Joash
 
 # Google webmaster tools
@@ -35,7 +35,7 @@ footer:
   copyright: Sassan Joash Moosavinia
   location: Cornwall, UK
   social: Connect with me
-  credits:
+  credits: Jekyll theme
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -52,7 +52,8 @@ address:
   - line: TR5 0QR
 
 # Credits content
-
+credits: Based on Freelancer bootstrap theme
+  
 # Build settings
 markdown: kramdown
 permalink: pretty
