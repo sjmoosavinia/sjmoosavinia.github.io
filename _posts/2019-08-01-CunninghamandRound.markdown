@@ -5,9 +5,9 @@ title: Cunningham and Round Ltd
 date: 2019-08-01
 img: Cunninghamandround/Cunninghamandround-home.jpg
 gallery:
-  - site.baseurl/assets/images/Cunninghamandround/cunninghamandround-welcome.jpg
-  - site.baseurl/assets/images/Cunninghamandround/cunninghamandround-about.jpg
-  - site.baseurl/assets/images/Cunninghamandround/cunninghamandround-services.jpg
+  - Cunninghamandround/cunninghamandround-welcome.jpg
+  - Cunninghamandround/cunninghamandround-about.jpg
+  - Cunninghamandround/cunninghamandround-services.jpg
 alt: CunninghamandRound.co.uk
 project-date: 2019
 category: Web Design
