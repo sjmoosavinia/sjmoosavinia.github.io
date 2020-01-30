@@ -5,10 +5,10 @@ title: Responsive Web Desgin Certification
 date: 2019-09-01
 img: FCC-Webdesign/FCC-codepen.jpg
 gallery:
-  - images/FCC-Webdesign/FCC-surveyform.jpg
-  - images/FCC-Webdesign/FCC-portfoliopage.jpg
-  - images/FCC-Webdesign/FCC-productpage.jpg
-  - images/FCC-Webdesign/FCC-certification.jpg
+  - assets/images/FCC-Webdesign/FCC-surveyform.jpg
+  - assets/images/FCC-Webdesign/FCC-portfoliopage.jpg
+  - assets/images/FCC-Webdesign/FCC-productpage.jpg
+  - assets/images/FCC-Webdesign/FCC-certification.jpg
 alt: Responsive Web Desgin Certification
 project-date: 2019
 category: Web Design
