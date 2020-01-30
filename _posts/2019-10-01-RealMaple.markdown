@@ -5,12 +5,12 @@ title: The Real Maple Company
 date: 2019-10-01
 img: TheRealMapleCompany/realmaple-home.jpg
 gallery:
-  - images/TheRealMapleCompany/realmaple-home.jpg
-  - images/TheRealMapleCompany/realmaple-creations.jpg
-  - images/TheRealMapleCompany/realmaple-contact.jpg
-  - images/TheRealMapleCompany/realmaple-contactmobile.jpg
-  - images/TheRealMapleCompany/realmaple-shopmobile.jpg
-  - images/TheRealMapleCompany/realmaple-homemobile.jpg
+  - TheRealMapleCompany/realmaple-home.jpg
+  - assets/images/TheRealMapleCompany/realmaple-creations.jpg
+  - assets/images/TheRealMapleCompany/realmaple-contact.jpg
+  - assets/images/TheRealMapleCompany/realmaple-contactmobile.jpg
+  - assets/images/TheRealMapleCompany/realmaple-shopmobile.jpg
+  - assets/images/TheRealMapleCompany/realmaple-homemobile.jpg
 alt: The Real Maple Company
 project-date: 2019
 category: Web Design
