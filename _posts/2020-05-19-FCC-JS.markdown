@@ -1,0 +1,18 @@
+---
+layout: default
+modal-id: 3
+title: Responsive Web Desgin Certification
+date: 2019-09-01
+img: FCC-Webdesign/FCC-codepen.jpg
+gallery:
+  - FCC-Webdesign/FCC-surveyform.jpg
+  - FCC-Webdesign/FCC-portfoliopage.jpg
+  - FCC-Webdesign/FCC-productpage.jpg
+  - FCC-Webdesign/FCC-certification.jpg
+alt: Responsive Web Desgin Certification
+project-date: 2019
+category: Web Design
+client: Personal project
+description: Following my interest in website development I spent approximately 300 hours completing an online course in responsive web design on FreeCodeCamp. This gave me a grounding in HTML and CSS through the completion of exercising in applied visual design and accessibility, responsive web design principals and the CSS flexboard and grid. To test my learning, I completed series of challenges following completion of the course designing 5 different wed pages and was awarded FreeCodeCamp Responsive Web Design Developer Certification. All pages and accompanying code can be viewed on my CodePen dashboard <br/><b><a href="https://codepen.io/dashboard/" target="_blank">here</a></b>.
+
+---
