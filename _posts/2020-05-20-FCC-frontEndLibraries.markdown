@@ -3,8 +3,9 @@ layout: default
 modal-id: 6
 title: Front End Libraries Certification
 date: 2020-05-20
-img:
+img: FCC-frontEndLibraries/FCC-frontEnd-content.jpg
 gallery:
+  - FCC-frontEndLibraries/FCC-frontEnd-content.jpg
 alt: Front End Libraries Certification
 project-date: Ongoing
 category: Web Development
