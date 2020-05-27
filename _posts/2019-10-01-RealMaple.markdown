@@ -8,9 +8,6 @@ gallery:
   - TheRealMapleCompany/realmaple-home.jpg
   - TheRealMapleCompany/realmaple-creations.jpg
   - TheRealMapleCompany/realmaple-contact.jpg
-  - TheRealMapleCompany/realmaple-contactmobile.png
-  - TheRealMapleCompany/realmaple-shopmobile.png
-  - TheRealMapleCompany/realmaple-homemobile.png
 alt: The Real Maple Company
 project-date: 2019
 category: Web Design
