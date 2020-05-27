@@ -1,16 +1,18 @@
 ---
 layout: default
-modal-id: 4
-title: Mission to Mars
-date: 2020-04-30
-img: missionToMars/missionToMars-TinkerCAD.jpg
+modal-id: 5
+title: JavaScript Algorithms and Data Structures Certification
+date: 2020-05-19
+img: FCC-JavaScript/FCC-JS-cashReg.jpg
 gallery:
-  - missionToMars/missionToMars-TinkerCAD.jpg
-  - missionToMars/missionToMars-arduino.jpg
-alt: Software Cornwall
+  - FCC-JavaScript/FCC-JS-romanNum.jpg
+  - FCC-JavaScript/FCC-JS-phoneCheck.jpg
+  - FCC-JavaScript/FCC-JS-cashReg.jpg
+  - FCC-JavaScript/FCC-JS-certification.jpg
+alt: JavaScript Algorithms and Data Structures Certification
 project-date: 2020
 category: Programming
-client: Software Cornwall
-description: Remote work experience project with softawre cornwall.
+client: Personal project
+description: To continue to develop my programming capabilities and explore my interest in new languages I continued completing FreeCodeCamps JavaScript Algorithms and Data Structures course. Working through exercises beginning with an introduction to JavaScript and moving on to basic data structures and debugging methods allowed me to establish and build up my programming skills. After covering functional and object orientation programming, I began testing and improving my abilities through a series of basic and then intermediate algorithms scripting before completing 5 mini projects to gain my certification. Details of the course content can be on <br/><b><a href="https://www.freecodecamp.org/learn" target="_blank">freecodecamp.org</a></b>.
 
 ---
