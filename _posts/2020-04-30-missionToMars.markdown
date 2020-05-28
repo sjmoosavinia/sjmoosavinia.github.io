@@ -5,6 +5,7 @@ title: Mission to Mars
 date: 2020-04-30
 img: missionToMars/missionToMars-TinkerCAD.jpg
 gallery:
+  - missionToMars/missionToMars-rover1.jpg
   - missionToMars/missionToMars-TinkerCAD.jpg
   - missionToMars/missionToMars-arduino.jpg
 alt: Software Cornwall
