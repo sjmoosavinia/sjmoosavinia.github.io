@@ -3,9 +3,10 @@ layout: default
 modal-id: 9
 title: Cypress End-to-End Testing
 date: 2022-07-01
-img: Cunninghamandround/Cunninghamandround-home.jpg
+img: Cypress/Cypress-cover.jpg
 gallery:
-alt: CunninghamandRound.co.uk
+  - Cypress/Cypress-cover.jpg
+alt: Cypress End-to-End Testing
 project-date: 2022
 category: Software Testing
 client: Personal project
