@@ -3,15 +3,13 @@ layout: default
 modal-id: 8
 title: ISTQB Foundation Level Tester
 date: 2022-05-13
-img: Cunninghamandround/Cunninghamandround-home.jpg
+img: ISTQB Foundation Level/ISTQB-certification.jpg 
 gallery:
-  - Cunninghamandround/cunninghamandround-welcome.jpg
-  - Cunninghamandround/cunninghamandround-about.jpg
-  - Cunninghamandround/cunninghamandround-services.jpg
-alt: CunninghamandRound.co.uk
+  - ISTQB Foundation Level/ISTQB-certification.jpg 
+alt: ISTQB Foundation Level Tester
 project-date: 2022
 category: Software Testing
-client: Aqua
+client: Qualification
 description: Software testing qualification
 
 ---
