@@ -6,7 +6,6 @@ date: 2021-01-09
 img: CMA/cornish-mutual-logo-A.jpg
 gallery:
   - CMA/cornish-mutual-logo-A.jpg
-  - ISTQB Foundation Level/ISTQB-certification.jpg 
  
 alt: Cornish Mutual Assurance
 project-date: 2021

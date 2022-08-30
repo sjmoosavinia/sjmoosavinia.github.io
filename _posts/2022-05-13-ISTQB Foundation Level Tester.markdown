@@ -3,7 +3,7 @@ layout: default
 modal-id: 8
 title: ISTQB Foundation Level Tester
 date: 2022-05-13
-img: ISTQBFoundationLevel/ISTQB-certification.jpg 
+img: ISTQBFoundationLevel/ISTQB-logo.jpg 
 gallery:
   - ISTQBFoundationLevel/ISTQB-certification.jpg 
 alt: ISTQB Foundation Level Tester
