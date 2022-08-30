@@ -10,6 +10,6 @@ alt: ISTQB Foundation Level Tester
 project-date: 2022
 category: Software Testing
 client: Qualification
-description: Software testing qualification
+description: Software testing qualification.
 
 ---

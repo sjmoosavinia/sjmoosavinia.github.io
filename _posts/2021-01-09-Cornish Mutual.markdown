@@ -3,9 +3,12 @@ layout: default
 modal-id: 7
 title: Cornish Mutual Assurance
 date: 2021-01-09
-img: Cunninghamandround/Cunninghamandround-home.jpg
+img: CMA/cornish-mutual-logo-A.jpg
 gallery:
-alt: CunninghamandRound.co.uk
+  - CMA/cornish-mutual-logo-A.jpg
+  - ISTQB Foundation Level/ISTQB-certification.jpg 
+ 
+alt: Cornish Mutual Assurance
 project-date: 2021
 category: Software Testing
 client: Cornish Mutual Assurance
