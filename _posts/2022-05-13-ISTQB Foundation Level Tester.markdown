@@ -5,7 +5,7 @@ title: ISTQB Foundation Level Tester
 date: 2022-05-13
 img: ISTQBFoundationLevel/ISTQB-logo.jpg 
 gallery:
-  - ISTQBFoundationLevel/ISTQB-content.jpg 
+ # - ISTQBFoundationLevel/ISTQB-content.jpg 
   - ISTQBFoundationLevel/ISTQB-certification.jpg 
 alt: ISTQB Foundation Level Tester
 project-date: 2022
