@@ -3,9 +3,9 @@ layout: default
 modal-id: 7
 title: Cornish Mutual Assurance
 date: 2021-01-09
-img: Cypress/Cypress-cover.jpg
+img: CMA/CMA01.jpg
 gallery:
-  - Cypress/Cypress-cover.jpg
+  - CMA/CMA01.jpg
  
 alt: Cornish Mutual Assurance
 project-date: 2021

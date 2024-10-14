@@ -3,9 +3,10 @@ layout: default
 modal-id: 12
 title: API Testing
 date: 2024-10-03
-img: Cypress/Cypress-cover.jpg
+img: API-Testing/APITesting02.jpg
 gallery:
-  - Cypress/Cypress-cover.jpg
+  - API-Testing/APITesting01.jpg
+  - API-Testing/APITesting02.jpg
 alt: API Testing
 project-date: 2024
 category: Software Testing

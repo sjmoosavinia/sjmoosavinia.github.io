@@ -3,9 +3,9 @@ layout: default
 modal-id: 10
 title: Bluefruit Software
 date: 2022-11-01
-img: Cypress/Cypress-cover.jpg
+img: Bluefruit/BluefruitSoftware01.jpg
 gallery:
-  - Cypress/Cypress-cover.jpg
+  - Bluefruit/BluefruitSoftware01.jpg
 alt: Bluefruit Software
 project-date: 2022
 category: Software Testing
