@@ -3,9 +3,9 @@ layout: default
 modal-id: 11
 title: Elgol Fund for Nature
 date: 2023-11-01
-img: Cypress/Cypress-cover.jpg
+img: ElgolFundForNature/cropped-cropped-elgol_logo_big-1.jpg
 gallery:
-  - Cypress/Cypress-cover.jpg
+  - ElgolFundForNature/cropped-cropped-elgol_logo_big-1.jpg
 alt: Elgol Fund for Nature
 project-date: 2022
 category: Web Design
